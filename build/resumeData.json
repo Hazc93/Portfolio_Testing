@@ -1,0 +1,75 @@
+{
+  "main": {
+    "name": "Harry Collins",
+    "occupation": "Trader / developer",
+    "image": "profilepic.jpg",
+    "bio": "Trader, Developer, Student. I am looking to pivot my career into the tech industry one project at a time.",
+    "contactmessage": "Get in touch.",
+    "email": "harrycollins93@yahoo.com",
+    "address": {
+      "city": "London"
+    },
+    "resumedownload": "https://github.com/Hazc93/CV_Test/raw/main/Resume_Test.pdf",
+    "social": [
+  
+      {
+        "name": "github",
+        "url": "https://github.com/Hazc93",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Warwick - UK",
+        "degree": "Postgraduate Diploma, Mathematics",
+        "graduated": "October 2018",
+        "description": "Dissertation was on small gaps between primes"
+      },
+      {
+        "school": "University of Brighton - UK",
+        "degree": "Mathematics and Finance",
+        "graduated": "June 2016",
+        "description": "1st class degree and awarded DEB Bose prize for best dissertation"
+      }
+    ],
+    "work": [
+      {
+        "company": "SmartestEnergy",
+        "title": "SPOT trader",
+        "years": "September 2021 - Present",
+        "description": "Power trader on the UK market, in a 24/7 shift team of 6."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "Derivatives",
+        "level": "80%"
+      },
+      {
+        "name": "Equities",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+      }
+    ]
+  }
+}

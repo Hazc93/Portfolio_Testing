@@ -1,0 +1,87 @@
+{
+  "main": {
+    "name": "Haz",
+    "occupation": "Trader / developer",
+    "image": "",
+    "bio": "Trader, Developer, Student. I am looking to pivot my career into the tech industry one project at a time.",
+    "contactmessage": "Get in touch.",
+    "email": "com",
+    "address": {
+      "city": "London"
+    },
+    "resumedownload": "",
+    "social": [
+  
+      {
+        "name": "github",
+        "url": "",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Warwick",
+        "degree": "Mathematics",
+        "graduated": "October 2015",
+        "description": "Dissertation was on small gaps between primes"
+      }
+   
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "Trader",
+        "years": "September 2021 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "Cat": "Front"
+      },
+      {
+        "name": "NextJs",
+        "Cat": "Front"
+      },
+      {
+        "name": "Typescript"
+      },
+      {
+        "name": "Web3"
+      },
+      {
+        "name": "ReactNative"
+      },
+      {
+        "name": "Python"
+      },
+      {
+        "name": "C++"
+      },
+      {
+        "name": "SQL",
+        "Cat": "Back"
+      },
+      {
+        "name": "Derivatives",
+        "Cat": "Misc"
+      },
+      {
+        "name": "Global Macro Trading"
+      },
+      {
+        "name": "Equities"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+      }
+    ]
+  }
+}
